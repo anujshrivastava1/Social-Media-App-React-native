@@ -39,7 +39,7 @@ https://github.com/anujshrivastava1/Social-Media-App-React-native/assets/1173680
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/social-media-app.git
+git clone https://github.com/anujshrivastava1/Social-Media-App-React-native.git
 ```
 
 2. **Install dependencies**:
