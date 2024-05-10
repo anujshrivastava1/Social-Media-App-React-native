@@ -22,7 +22,7 @@ This project is a Social Media App developed using React Native, MongoDB, and Ex
 
 ## Video:
 
-
+https://github.com/anujshrivastava1/Social-Media-App-React-native/assets/117368088/b9d899f4-3e41-4f42-a93c-0c7b5bfaeeca
 
 ## Technologies Used
 
