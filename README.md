@@ -20,6 +20,7 @@ This project is a Social Media App developed using React Native, MongoDB, and Ex
 7. **User Profile and Logout Section**: Users can view and edit their profile information and log out from the app.
    ![WhatsApp Image 2024-05-10 at 13 00 14 (2)](https://github.com/anujshrivastava1/Social-Media-App-React-native/assets/117368088/021a3178-882b-4747-99b8-6cade2929a5b)
 8. **Email Verification**
+
    ![Screenshot 2024-05-10 130619](https://github.com/anujshrivastava1/Social-Media-App-React-native/assets/117368088/8cd1a5c0-bc8b-405e-87c3-bc5fba97df70)
    ![Screenshot 2024-05-10 130506](https://github.com/anujshrivastava1/Social-Media-App-React-native/assets/117368088/a2457d9e-bc3d-4558-bd73-98e43416c118)
 
